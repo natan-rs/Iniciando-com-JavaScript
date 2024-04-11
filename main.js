@@ -71,5 +71,5 @@ let numberTen = 51
 if(numberTen % 2 == 1) {
   alert("É um número ímpar")
 } else {
-  alert("Não é um número par")
+  alert("Não é um número ímpar")
 }
